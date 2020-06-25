@@ -1,0 +1,41 @@
+.myhead{
+    display: flex;
+    flex-direction: row;
+}
+.myhead1{
+  flex: 1;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 24px;
+  line-height: 50px;
+}
+.mybody{
+    display: flex;
+    flex-direction: row; 
+}
+.mybody1{
+  flex: 1;
+  height: 120px;
+  text-align: center;
+  border: 1px solid black;
+  /* line-height: 36px; */
+}
+.mybody:hover{
+    background-color: darkgray;
+}
+.mybody2{
+  display: flex;
+  flex-direction: column;
+  
+  width: 100px;
+  height: 30px;
+}
+.mybody3{
+  flex: 1;
+  height: 120px;
+  text-align: center;
+  border: 1px solid black;
+  line-height: 100px;
+}
+

@@ -1,0 +1,9 @@
+.outdiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.outdiv1{
+    margin-left: 20px;
+    margin-right: 20px;
+}

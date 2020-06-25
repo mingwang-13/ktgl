@@ -1,0 +1,44 @@
+.mydiv{
+    display: flex;
+    flex-direction: row;
+}
+.divimg{
+    width: 200px;
+    height: 200px;
+}
+.el-div2{
+   display: flex;
+   align-items: center;
+   justify-content: start;
+}
+.el-div3{
+  flex: 1;
+}
+.el-div4{
+  flex: 1;
+  display: flex;
+  font-size: 18px;
+  flex-direction: row;
+  /* background: url(./../../../../static/image/per.jpg) no-repeat; */
+  background-color: #e5e9f1;
+  width: 200px;
+  height: 200px;
+}
+.el-div5{
+    margin-left: 5px;
+}
+.el-carousel__item h3 {
+    color: #475669;
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 200px;
+    margin: 0;
+  }
+  
+  .el-carousel__item:nth-child(2n) {
+    background-color: #99a9bf;
+  }
+  
+  .el-carousel__item:nth-child(2n+1) {
+    background-color: #d3dce6;
+  }

@@ -1,0 +1,40 @@
+.apply-div{
+     .bg{
+        position:fixed; 
+        top: 0; 
+        left: 0; 
+        width:100%; 
+        height:100%; 
+        min-width: 1000px; 
+        z-index:-10; 
+        background-color: rgb(139, 133, 133); 
+        background-repeat: no-repeat; 
+        background-size: cover; 
+        -webkit-background-size: cover; 
+        -o-background-size: cover; 
+        background-position: center 0;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-direction: column;
+            .myselect{
+            
+               height: 150px;
+               line-height: 150px;
+             
+            }
+            .myapply{
+              
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                .myapply-div{
+                      margin: 50px;
+                }
+            }
+            .mybtn{
+                margin-top: 50px;
+            }
+     }
+}

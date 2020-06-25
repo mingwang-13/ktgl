@@ -1,0 +1,58 @@
+{
+  "id": "1660363",
+  "name": "k't'g'l",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2681689",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2728884",
+      "name": "创建课堂",
+      "font_class": "chuangjianketang",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "9987415",
+      "name": "第二课堂",
+      "font_class": "biaozhunicon-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13168408",
+      "name": "组织",
+      "font_class": "zuzhi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13168519",
+      "name": "报表",
+      "font_class": "baobiao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13168574",
+      "name": "业绩",
+      "font_class": "yeji",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "13173812",
+      "name": "系统",
+      "font_class": "xitong",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
